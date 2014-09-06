@@ -91,7 +91,7 @@ mobapi:register_mob("mobs_flat:oerkki", {
 	light_damage = 0,
 	attack_type = "dogfight",
 })
-mobapi:register_spawn("mobs_flat:oerkki", {"default:stone"}, 5, -1, 7000, 5, 32)
+mobapi:register_spawn("mobs_flat:oerkki", {"default:stone"}, 5, -1, 7000, 5, -10)
 
 -- OMSK Bird
 mobapi:register_mob("mobs_flat:omsk", {
